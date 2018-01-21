@@ -36,7 +36,7 @@ Fri, 03 Nov 2017 19:00:00 +0100
 Nuevo artículo acerca de UnitParser en codeproject.com
 https://www.codeproject.com/Articles/1211504/UnitParser
 Escrib&iacute; un art&iacute;culo acerca de UnitParser en CodeProject. Aunque es acerca de la versi&oacute;n .NET/C#, la mayor parte de estas ideas tambi&eacute;n son aplicables a la versi&oacute;n Java.   
-Fri, 20 Nov 2017 18:00:00 +0100
+Mon, 20 Nov 2017 18:00:00 +0100
 ---
 Iteracción 4 del ranking de dominios web de varocarbas.com esperando por QuickSearch 1.0
 https://varocarbas.com/domain_ranking/

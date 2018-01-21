@@ -36,7 +36,7 @@ Fri, 03 Nov 2017 19:00:00 +0100
 New article about UnitParser in codeproject.com
 https://www.codeproject.com/Articles/1211504/UnitParser
 I wrote an article about UnitParser in CodeProject. Although it is about the .NET/C# version, most of these ideas are also applicable to the Java version.   
-Fri, 20 Nov 2017 18:00:00 +0100
+Mon, 20 Nov 2017 18:00:00 +0100
 ---
 Iteration 4 of the varocarbas.com web domain ranking waiting for QuickSearch 1.0
 https://varocarbas.com/domain_ranking/
