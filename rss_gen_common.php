@@ -103,9 +103,9 @@ function GetGuid($level, $url)
 function GetChannelDescription($level, $url, $language)
 {
 	$output = GetNode($level, GetInfo("channel_title", $language), "title");
-    $output .= AddIndent($level) . "<atom:link rel=\"self\" href=\"" . $url . "\" type=\"application/rss+xml\"/>" . PHP_EOL;
-    $output .= GetNode($level, $url, "link");
-    $output .= GetNode($level, GetInfo("channel_desc", $language), "description");
+	$output .= AddIndent($level) . "<atom:link rel=\"self\" href=\"" . $url . "\" type=\"application/rss+xml\"/>" . PHP_EOL;
+	$output .= GetNode($level, $url, "link");
+	$output .= GetNode($level, GetInfo("channel_desc", $language), "description");
 	
 	return $output;
 }
