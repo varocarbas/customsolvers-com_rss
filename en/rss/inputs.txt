@@ -1,0 +1,47 @@
+Code of the customsolvers.com RSS generator released
+https://github.com/varocarbas/customsolvers-com_rss
+New repository in my GitHub account including the PHP code of the custom app generating the RSS feeds of customsolvers.com.
+Sun, 21 Jan 2018 17:00:00 +0100
+---
+I have started working on a new application generating RSS-feeds from random web pages
+https://customsolvers.com/en/pages/open_source/
+I am already working on a new piece of software generating RSS feeds (i.e., properly-formatted XML files) via parsing the HTML code of random web pages with a compatible-with-this-format structure (e.g., social-media-like site where users post on a regular basis).<br/>I will be relying on Perl and releasing it as open source.
+Sat, 20 Jan 2018 16:00:00 +0100
+---
+Improvements in the RSS feed of the web domain ranking of varocarbas.com
+https://varocarbas.com/domain_ranking/rss/
+From now on and additionally to the top 1000 positions, that feed will also include the following ranges: 2501-5000 and 5001-10000.<br/>Note that this RSS feed is fully synchronised with the corresponding database, whose tables are currently being updated every 3 days.
+Sat, 20 Jan 2018 16:00:00 +0100
+---
+New QuickSearch adapters for various programming languages
+https://customsolvers.com/en/pages/software/quick_search/adapters/
+Although QuickSearch is still in a quite preliminary stage (not sure yet when version 1 will be ready), I have released additional adapters in various programming languages. My main motivation has been to help potential clients understand my flexibility on the programming language front.<br/>At the moment, the following languages are supported: C++, C#, Go, Java, JavaScript (Node.js), Perl, PHP, Python, Ruby, Rust, VBA (Microsoft Excel) and VB.NET.  
+Wed, 17 Jan 2018 10:00:00 +0100
+---
+New article about NumberParser in codeproject.com
+https://www.codeproject.com/Articles/1216825/NumberParser
+I wrote a detailed article about the original .NET/C# version of NumberParser in CodeProject.   
+Sat, 25 Nov 2017 17:00:00 +0100
+---
+I start to actively look for clients/work
+https://customsolvers.com/en/pages/attitude_2.0/expectations_2.0/
+After having spent a relevant amount of time during the last quite a few months on having ready a descriptive enough public online presence (= my shop window), I have started to actively look for good clients/work.<br/>My expectations are very clear and I am willing to be as patient as required. So, I hope that will be able to find/be found by the kind of people and conditions which I want.   
+Fri, 03 Nov 2017 19:00:00 +0100
+---
+QuickSearch 0.5 released
+https://customsolvers.com/quick_search/
+Finally, I decided to release a preliminary beta version of QuickSearch with restricted functionalities. It is still quite far away from the proper verson I have in mind, but already gives a quite good idea about the main advantages of this approach: quick (searches/SELECT queries) and portable (no installation required).<br/>I will release v.1 as soon as I can, but without unnecessarily rushing things up.   
+Fri, 03 Nov 2017 19:00:00 +0100
+---
+New article about UnitParser in codeproject.com
+https://www.codeproject.com/Articles/1211504/UnitParser
+I wrote an article about UnitParser in CodeProject. Although it is about the .NET/C# version, most of these ideas are also applicable to the Java version.   
+Fri, 20 Nov 2017 18:00:00 +0100
+---
+Iteration 4 of the varocarbas.com web domain ranking waiting for QuickSearch 1.0
+https://varocarbas.com/domain_ranking/
+As far as things are going reasonably well on the retrieval-information front, I will better wait for QuickSearch 1.0 to be ready before moving to the next iteration.<br/>Note that the transition between iterations is a quite aggressive process which takes relatively long time, which will be presumably reduced thanks to QuickSearch.
+Fri, 06 Oct 2017 10:00:00 +0100
+---
+
+

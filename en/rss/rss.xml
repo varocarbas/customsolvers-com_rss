@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+   <channel>
+      <title>RSS feed of Custom Solvers 2.0</title>
+      <atom:link rel="self" href="https://customsolvers.com/en/rss/" type="application/rss+xml"/>
+      <link>https://customsolvers.com/en/rss/</link>
+      <description><![CDATA[Relevant news about my public online activity like customsolvers.com/varocarbas.com or open source projects.]]></description>
+      <item>
+         <title>Code of the customsolvers.com RSS generator released</title>
+         <link>https://github.com/varocarbas/customsolvers-com_rss</link>
+         <guid isPermaLink="false">https://github.com/varocarbas/customsolvers-com_rss</guid>
+         <description><![CDATA[New repository in my GitHub account including the PHP code of the custom app generating the RSS feeds of customsolvers.com.]]></description>
+         <pubDate>Sun, 21 Jan 2018 17:00:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>I have started working on a new application generating RSS-feeds from random web pages</title>
+         <link>https://customsolvers.com/en/pages/open_source/</link>
+         <guid isPermaLink="false">https://customsolvers.com/en/pages/open_source/</guid>
+         <description><![CDATA[I am already working on a new piece of software generating RSS feeds (i.e., properly-formatted XML files) via parsing the HTML code of random web pages with a compatible-with-this-format structure (e.g., social-media-like site where users post on a regular basis).<br/>I will be relying on Perl and releasing it as open source.]]></description>
+         <pubDate>Sat, 20 Jan 2018 16:00:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>Improvements in the RSS feed of the web domain ranking of varocarbas.com</title>
+         <link>https://varocarbas.com/domain_ranking/rss/</link>
+         <guid isPermaLink="false">https://varocarbas.com/domain_ranking/rss/</guid>
+         <description><![CDATA[From now on and additionally to the top 1000 positions, that feed will also include the following ranges: 2501-5000 and 5001-10000.<br/>Note that this RSS feed is fully synchronised with the corresponding database, whose tables are currently being updated every 3 days.]]></description>
+         <pubDate>Sat, 20 Jan 2018 16:00:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>New QuickSearch adapters for various programming languages</title>
+         <link>https://customsolvers.com/en/pages/software/quick_search/adapters/</link>
+         <guid isPermaLink="false">https://customsolvers.com/en/pages/software/quick_search/adapters/</guid>
+         <description><![CDATA[Although QuickSearch is still in a quite preliminary stage (not sure yet when version 1 will be ready), I have released additional adapters in various programming languages. My main motivation has been to help potential clients understand my flexibility on the programming language front.<br/>At the moment, the following languages are supported: C++, C#, Go, Java, JavaScript (Node.js), Perl, PHP, Python, Ruby, Rust, VBA (Microsoft Excel) and VB.NET.]]></description>
+         <pubDate>Wed, 17 Jan 2018 10:00:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>New article about NumberParser in codeproject.com</title>
+         <link>https://www.codeproject.com/Articles/1216825/NumberParser</link>
+         <guid isPermaLink="false">https://www.codeproject.com/Articles/1216825/NumberParser</guid>
+         <description><![CDATA[I wrote a detailed article about the original .NET/C# version of NumberParser in CodeProject.]]></description>
+         <pubDate>Sat, 25 Nov 2017 17:00:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>I start to actively look for clients/work</title>
+         <link>https://customsolvers.com/en/pages/attitude_2.0/expectations_2.0/</link>
+         <guid isPermaLink="false">https://customsolvers.com/en/pages/attitude_2.0/expectations_2.0/</guid>
+         <description><![CDATA[After having spent a relevant amount of time during the last quite a few months on having ready a descriptive enough public online presence (= my shop window), I have started to actively look for good clients/work.<br/>My expectations are very clear and I am willing to be as patient as required. So, I hope that will be able to find/be found by the kind of people and conditions which I want.]]></description>
+         <pubDate>Fri, 03 Nov 2017 19:00:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>QuickSearch 0.5 released</title>
+         <link>https://customsolvers.com/quick_search/</link>
+         <guid isPermaLink="false">https://customsolvers.com/quick_search/</guid>
+         <description><![CDATA[Finally, I decided to release a preliminary beta version of QuickSearch with restricted functionalities. It is still quite far away from the proper verson I have in mind, but already gives a quite good idea about the main advantages of this approach: quick (searches/SELECT queries) and portable (no installation required).<br/>I will release v.1 as soon as I can, but without unnecessarily rushing things up.]]></description>
+         <pubDate>Fri, 03 Nov 2017 19:00:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>New article about UnitParser in codeproject.com</title>
+         <link>https://www.codeproject.com/Articles/1211504/UnitParser</link>
+         <guid isPermaLink="false">https://www.codeproject.com/Articles/1211504/UnitParser</guid>
+         <description><![CDATA[I wrote an article about UnitParser in CodeProject. Although it is about the .NET/C# version, most of these ideas are also applicable to the Java version.]]></description>
+         <pubDate>Fri, 20 Nov 2017 18:00:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>Iteration 4 of the varocarbas.com web domain ranking waiting for QuickSearch 1.0</title>
+         <link>https://varocarbas.com/domain_ranking/</link>
+         <guid isPermaLink="false">https://varocarbas.com/domain_ranking/</guid>
+         <description><![CDATA[As far as things are going reasonably well on the retrieval-information front, I will better wait for QuickSearch 1.0 to be ready before moving to the next iteration.<br/>Note that the transition between iterations is a quite aggressive process which takes relatively long time, which will be presumably reduced thanks to QuickSearch.]]></description>
+         <pubDate>Fri, 06 Oct 2017 10:00:00 +0100</pubDate>
+      </item>
+   </channel>
+</rss>

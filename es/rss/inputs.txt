@@ -1,0 +1,47 @@
+Código del generador de RSS hecho público
+https://github.com/varocarbas/customsolvers-com_rss
+Nuevo repositorio en mi cuenta de GitHub con el c&oacute;digo PHP de la aplicaci&oacute;n a medida que genera las fuentes RSS de customsolvers.com.
+Sun, 21 Jan 2018 17:00:00 +0100
+---
+He empezado a trabajar en una nueva aplicación que genera fuentes RSS de páginas web aleatorias
+https://customsolvers.com/es/paginas/codigo_abierto/
+Ya estoy trabajando en un nuevo programa inform&aacute;tico para la generaci&oacute;n de fuentes RSS (es decir, archivos XML con el formato adecuado) por medio del parseo del c&oacute;digo HTML de p&aacute;ginas web aleatorias con una estructura compatible con este formato (por ejemplo, web tipo red social donde los usuarios escriben de manera regular).<br/>Usar&eacute; Perl y lo dar&eacute; en c&oacute;digo abierto.
+Sat, 20 Jan 2018 16:00:00 +0100
+---
+Mejoras en las fuente de RSS del ranking de dominios web de varocarbas.com
+https://varocarbas.com/domain_ranking/rss/
+A partir de ahora y adem&aacute;s de las primeras 1000 posiciones, esa fuente tambi&eacute;n incluir&aacute; los siguientes rangos: 2501-5000 y 5001-10000.<br/>Hay que tener presente que esta fuente de RSS est&aacute; perfectamente sincronizada con la correspondiente base de datos, cuyas tablas est&aacute;n siendo actualizadas ahora mismo cada 3 d&iacute;as.
+Sat, 20 Jan 2018 16:00:00 +0100
+---
+Nuevos adaptadores de QuickSearch para varios lenguajes de programación
+https://customsolvers.com/es/paginas/software/quick_search/adaptadores/
+Aunque QuickSearch est&aacute; a&uacute;n en una etapa bastante preliminar (ni idea cuando tendr&eacute; lista la versi&oacute;n 1), he hecho p&uacute;blicos adaptadores adicionales en varios lenguajes de programaci&oacute;n. Mi principal motivaci&oacute;n ha sido ayudar a clientes potenciales a entender mi flexibilidad en cuanto a los lenguajes de programaci&oacute;n.<br/>Por el momento, los siguientes lenguajes est&aacute;n soportados: C++, C#, Go, Java, JavaScript (Node.js), Perl, PHP, Python, Ruby, Rust, VBA (Microsofot Excel) y VB.NET.  
+Wed, 17 Jan 2018 10:00:00 +0100
+---
+Nuevo artículo sobre NumberParser en codeproject.com
+https://www.codeproject.com/Articles/1216825/NumberParser
+Escrib&iacute; un art&iacute;culo detallado acerca de la versi&oacute;n original .NET/C# de NumberParser en CodeProject.   
+Sat, 25 Nov 2017 17:00:00 +0100
+---
+Empiezo a buscar clientes/trabajo de manera activa
+https://customsolvers.com/es/paginas/actitud_2.0/expectativas_2.0/
+Tras haber invertido una cantidad de tiempo relevante durante los &uacute;ltimos cuantos meses en tener lista una presencia p&uacute;blica online suficientemente descriptiva (= mi escaparate), he empezado a buscar de manera activa clientes/trabajo.<br/>Mis expectativas est&aacute;n muy claras y estoy dispuesto a ser tan paciente como sea necesario. As&iacute; que espero ser capaz de eventualmente encontrar/ser encontrado por el tipo de gente y condiciones que quiero.   
+Fri, 03 Nov 2017 19:00:00 +0100
+---
+QuickSearch 0.5 hecho público
+https://customsolvers.com/quick_search_es/
+Finalmente, decid&iacute; publicar una versi&oacute;n beta preliminar de QuickSearch con funcionalidades restringidas. A&uacute;n est&aacute; muy lejos de la versi&oacute;n en condiciones que tengo en mente, pero ya da una idea bastante buena de las principales ventajas de esta aproximaci&oacute;n: r&aacute;pida (b&uacute;squedas/consultas SELECT) y portable (no necesita instalaci&oacute;n).<br/>Har&eacute; p&uacute;blica v.1 tan pronto como pueda, pero sin acelerar las cosas de manera innecesaria.   
+Fri, 03 Nov 2017 19:00:00 +0100
+---
+Nuevo artículo acerca de UnitParser en codeproject.com
+https://www.codeproject.com/Articles/1211504/UnitParser
+Escrib&iacute; un art&iacute;culo acerca de UnitParser en CodeProject. Aunque es acerca de la versi&oacute;n .NET/C#, la mayor parte de estas ideas tambi&eacute;n son aplicables a la versi&oacute;n Java.   
+Fri, 20 Nov 2017 18:00:00 +0100
+---
+Iteracción 4 del ranking de dominios web de varocarbas.com esperando por QuickSearch 1.0
+https://varocarbas.com/domain_ranking/
+En la medida que las cosas est&aacute;n yendo razonablemente bien en el frente de la obtenci&oacute;n de informaci&oacute;n, mejor voy a esperar a que QuickSearch 1.0 est&eacute; listo antes de pasar a la siguiente iteracci&oacute;n.<br/>Hay que tener presente que la transici&oacute;n entre interacciones es un proceso bastante agresivo que requiere un tiempo relativamente largo, que presumiblemente se reducir&aacute; gracias a QuickSearch.
+Fri, 06 Oct 2017 10:00:00 +0100
+---
+
+
