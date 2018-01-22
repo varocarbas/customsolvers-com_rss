@@ -10,7 +10,7 @@ Sat, 20 Jan 2018 16:00:00 +0100
 ---
 Mejoras en las fuente de RSS del ranking de dominios web de varocarbas.com
 https://varocarbas.com/domain_ranking/rss/
-A partir de ahora y adem&aacute;s de las primeras 1000 posiciones, esa fuente tambi&eacute;n incluir&aacute; los siguientes rangos: 2501-5000 y 5001-10000.<br/>Hay que tener presente que esta fuente de RSS est&aacute; perfectamente sincronizada con la correspondiente base de datos, cuyas tablas est&aacute;n siendo actualizadas ahora mismo cada 3 d&iacute;as.
+A partir de ahora y adem&aacute;s de las primeras 1000 posiciones, esa fuente tambi&eacute;n incluir&aacute; los siguientes rangos: 1001-2500, 2501-5000 y 5001-10000.<br/>Hay que tener presente que esta fuente de RSS est&aacute; perfectamente sincronizada con la correspondiente base de datos, cuyas tablas est&aacute;n siendo actualizadas ahora mismo cada 3 d&iacute;as.
 Sat, 20 Jan 2018 16:00:00 +0100
 ---
 Nuevos adaptadores de QuickSearch para varios lenguajes de programación
