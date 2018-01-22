@@ -10,7 +10,7 @@ Sat, 20 Jan 2018 16:00:00 +0100
 ---
 Improvements in the RSS feed of the web domain ranking of varocarbas.com
 https://varocarbas.com/domain_ranking/rss/
-From now on and additionally to the top 1000 positions, that feed will also include the following ranges: 2501-5000 and 5001-10000.<br/>Note that this RSS feed is fully synchronised with the corresponding database, whose tables are currently being updated every 3 days.
+From now on and additionally to the top 1000 positions, that feed will also include the following ranges: 1001-2500, 2501-5000 and 5001-10000.<br/>Note that this RSS feed is fully synchronised with the corresponding database, whose tables are currently being updated every 3 days.
 Sat, 20 Jan 2018 16:00:00 +0100
 ---
 New QuickSearch adapters for various programming languages

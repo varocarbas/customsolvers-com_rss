@@ -23,7 +23,7 @@
          <title>Improvements in the RSS feed of the web domain ranking of varocarbas.com</title>
          <link>https://varocarbas.com/domain_ranking/rss/</link>
          <guid isPermaLink="false">https://varocarbas.com/domain_ranking/rss/</guid>
-         <description><![CDATA[From now on and additionally to the top 1000 positions, that feed will also include the following ranges: 2501-5000 and 5001-10000.<br/>Note that this RSS feed is fully synchronised with the corresponding database, whose tables are currently being updated every 3 days.]]></description>
+         <description><![CDATA[From now on and additionally to the top 1000 positions, that feed will also include the following ranges: 1001-2500, 2501-5000 and 5001-10000.<br/>Note that this RSS feed is fully synchronised with the corresponding database, whose tables are currently being updated every 3 days.]]></description>
          <pubDate>Sat, 20 Jan 2018 16:00:00 +0100</pubDate>
       </item>
       <item>
